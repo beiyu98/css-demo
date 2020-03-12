@@ -1,0 +1,26 @@
+.normal {
+  font-family: Georgia, sans-serif;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  background-color: green;
+  width: 100%;
+  height: 30px;
+}
+
+.stickyContent {
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: coral;
+  width: 100%;
+}
+
+.box {
+  width: 100%;
+  margin: 12px;
+  padding: 12px;
+  background-color: cadetblue;
+}
